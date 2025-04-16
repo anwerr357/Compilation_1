@@ -1,0 +1,6 @@
+Résultats de l'analyse :
+------------------------
+Nombre de mots : 18
+Nombre de lignes : 1
+Nombre de caractères : 93
+Somme des nombres : 2673

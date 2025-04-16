@@ -1,0 +1,5 @@
+Compilez avec :
+    flex exercice.l
+    gcc lex.yy.c -o analyseur -lfl 
+executez avec:  
+    ./analyseur < test.txt
