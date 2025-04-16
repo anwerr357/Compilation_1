@@ -1,0 +1,2 @@
+./prog < text.txt : tester le programme
+gcc lex.yy.c -o prog -lfl : générer l'executable
